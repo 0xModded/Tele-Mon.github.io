@@ -1,16 +1,8 @@
 
 # Hello!
 My Name is Joshua Hanson, I like programming and cybersecurity.
-# Header 1
-## Header 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### What I've done before
+-Switch Modding/hacking
+-Make a bad login form
+-Made a fake recipt to trick apple into unlocking a iPhone X
+I guess I'll post what I do here
