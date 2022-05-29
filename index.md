@@ -4,6 +4,6 @@ i like coding
 ### telegram is @mstermnds & mndrdr
 -drainers are expensive
 -i dont pay my holders LOL
-###current projects
+### current projects
 -coinbase drainer
 
