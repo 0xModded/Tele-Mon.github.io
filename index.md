@@ -1,9 +1,11 @@
 
-# bitcoin swappers
-i like coding
-### telegram is @mstermnds & mndrdr
--drainers are expensive
--i dont pay my holders LOL
+# Tele-Mon 
+i code and make malware (for testing)
+### Socials
+-I only actively use Discord and Reddit
+-Discord: mstermnded#2681
+-Reddit: u/Hshshshshhf
 ### current projects
--coinbase drainer
+-some sort of malware
+-selenium bot
 
